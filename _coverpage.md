@@ -8,5 +8,5 @@
 >
 
 [GitHub](https://github.com/y00112/docsify-notebook)
-[开始阅读](#docsify-notebook)
+[开始阅读](README.md)
 
