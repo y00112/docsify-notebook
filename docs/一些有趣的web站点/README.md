@@ -1,4 +1,10 @@
-## 有趣的站点分享（第 1 期）
+## 有趣的站点分享（每周五更新）
+
+
+
+
+
+## （2023-3-10 第 1 期）
 
 
 
@@ -6,29 +12,29 @@
 
 ![img](https://cdn.beekka.com/blogimg/asset/202302/bg2023021701.webp)
 
-划词翻译工具。选中一个词以后，它会唤起一个本机的 WebView 窗口，在该窗口中返回翻译网站的结果。（[@fzdwx](https://github.com/ruanyf/weekly/issues/2903) 投稿）
+划词翻译工具。选中一个词以后，它会唤起一个本机的 WebView 窗口，在该窗口中返回翻译网站的结果。
 
 2、[夜视仪](https://github.com/luoxuhai/NightVision)
 
 ![img](https://cdn.beekka.com/blogimg/asset/202302/bg2023022006.webp)
 
-iOS 免费应用，使用 iPhone 的激光镜头，在完全无光环境下扫描和检测距离，代码开源。（[@luoxuhai](https://github.com/ruanyf/weekly/issues/2917) 投稿）
+iOS 免费应用，使用 iPhone 的激光镜头，在完全无光环境下扫描和检测距离，代码开源。
 
 3、[bing_wallpaper](https://github.com/xiqishow/bing_wallpaper)
 
-微软的必应每天发布壁纸图片，这个脚本让 Mac 电脑定时随机从其中选择一张作为桌面。（[@xiqishow](https://github.com/ruanyf/weekly/issues/2924) 投稿）
+微软的必应每天发布壁纸图片，这个脚本让 Mac 电脑定时随机从其中选择一张作为桌面。
 
 4、[paint-board](https://github.com/LHRUN/paint-board)
 
 ![img](https://cdn.beekka.com/blogimg/asset/202302/bg2023022008.webp)
 
-一个开源的 Web 画板，基于 canvas。（[@LHRUN](https://github.com/ruanyf/weekly/issues/2926) 投稿）
+一个开源的 Web 画板，基于 canvas。
 
-5、[静态 Mastodon 服务器](https://github.com/rothgar/static-mastodon)
+https://github.com/rothgar/static-mastodon)
 
 ![img](https://cdn.beekka.com/blogimg/asset/202302/bg2023022009.webp)
 
-Mastodon 是一个分布式社交网络，作者演示了只用静态文件，就可以让别人看到你的动态，参见[介绍文章](https://justingarrison.com/blog/2022-12-06-mastodon-files-instance/)。（[@DejavuMoe](https://github.com/ruanyf/weekly/issues/2932) 投稿）
+Mastodon 是一个分布式社交网络，作者演示了只用静态文件，就可以让别人看到你的动态，参见[介绍文章](https://justingarrison.com/blog/2022-12-06-mastodon-files-instance/)。
 
 5、[soundraw.io](https://soundraw.io/)
 
